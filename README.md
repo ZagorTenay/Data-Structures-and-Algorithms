@@ -38,7 +38,7 @@ The binary representations of these integers are: </br>
 
 </br>
 
->public void Our_sort(UInt32[] array, int p, int q, int digit)
+    public void Our_sort(UInt32[] array, int p, int q, int digit)
 
 </br>Here;
 array = the array which will be sorted by Our_sort function. </br>
@@ -81,23 +81,23 @@ the sum of all items (keys) that are smaller than the current node item. Note th
 this value on each insert operation.
 The standard output of your program should appear as follows:
 
->------ AVL-Tree ------  </br>
->All items were inserted.  </br>
->The time elapsed for the insertion of all items is 2,47563383 nanoseconds  </br>
->The result of GETSUMSMALLER for the item with value 1000 is 23442  </br>
->The maximum value of all items is 1987  </br>
->The minimum value of all items is 2  </br>
->The summation of all items is 221327  </br>
->The time elapsed for GETSUM is 0,01563383 nanoseconds  </br>
+    ------ AVL-Tree ------ 
+    All items were inserted. 
+    The time elapsed for the insertion of all items is 2,47563383 nanoseconds 
+    The result of GETSUMSMALLER for the item with value 1000 is 23442  
+    The maximum value of all items is 1987  
+    The minimum value of all items is 2  
+    The summation of all items is 221327 
+    The time elapsed for GETSUM is 0,01563383 nanoseconds 
 
->------ Augmented AVL-Tree ------  </br>
->All items were inserted.  </br>
->The time elapsed for the insertion of all items is 3,15623873 nanoseconds  </br>
->The result of GETSUMSMALLER for the item with value 1000 is 23442  </br>
->The maximum value of all items is 1987  </br>
->The minimum value of all items is 2  </br>
->The summation of all items is 221327  </br> 
->The time elapsed for GETSUM is 0,00062383 nanoseconds  </br>
+    ------ Augmented AVL-Tree ------
+    All items were inserted.  </br>
+    The time elapsed for the insertion of all items is 3,15623873 nanoseconds  
+    The result of GETSUMSMALLER for the item with value 1000 is 23442  
+    The maximum value of all items is 1987 
+    The minimum value of all items is 2 
+    The summation of all items is 221327 
+    The time elapsed for GETSUM is 0,00062383 nanoseconds 
 
 ##### Task - 4
 
