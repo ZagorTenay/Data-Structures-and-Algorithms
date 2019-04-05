@@ -1,4 +1,4 @@
-# Data-Structures-and-Algorithms
+# Data Structures and Algorithms
 This repository contains two assignments and some laboratory tasks of the Data Structures and Algorithms course.
 
 ### Assignment 1 Sorting Algorithm
