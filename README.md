@@ -11,7 +11,8 @@ The binary representations of these integers are: </br>
 >132 = 10000100  </br>
 >14 = 00001100  </br>
 >2 = 00000010  </br>
->9 = 00001001  </br></br>
+>9 = 00001001
+
 
 |                | 7.bit          | 6.bit          | 5.bit          | 4.bit          | 3.bit          | 2.bit          | 1.bit          | 0.bit          |
 |     :---:      |     :---:      |     :---:      |     :---:      |     :---:      |     :---:      |     :---:      |     :---:      |     :---:      |
